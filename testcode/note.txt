@@ -1,0 +1,8 @@
+int omp_get_num_threads();
+number of threads in the team
+
+int omp_get_thread_num();
+Thread ID or rank
+
+double omp_get_wtime();
+timestamp
