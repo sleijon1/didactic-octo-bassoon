@@ -1,1 +1,1 @@
-#Course in Low-Level Parallel Programming
+Course in Low-Level Parallel Programming
